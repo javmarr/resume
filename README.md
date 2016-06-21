@@ -1,6 +1,5 @@
 # Resume
-
-Javier Marroquin (*j_marrouqin@live.com*)
+Javier Marroquin (*j_marroquin@live.com*)
 
 * Objective
   * Learn new Skills
