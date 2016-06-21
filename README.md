@@ -11,4 +11,4 @@ Javier Marroquin (*j_marroquin@live.com*)
 
 * Skills
   * Good problem solving Skills
-  * Been coding in several languages including (Java, C++, Objective-C, C#, Python, HTML, CSS, JavaScript)
+  * Have coded in several languages including (Java, C++, Objective-C, C#, Python, HTML, CSS, JavaScript)
