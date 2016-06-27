@@ -1,14 +1,14 @@
 # Resume
-Javier Marroquin (*j_marroquin@live.com*)
+##### Javier Marroquin (*j_marroquin@live.com*)
 
-* Objective
+* ###### Objective
   * Learn new Skills
   * Improve my current one through practice
 
-* Education
+* ###### Education
   * Working on Master's for Computer Science
   * BS in Computer Engineering
 
-* Skills
+* ###### Skills
   * Good problem solving Skills
   * Have coded in several languages including (Java, C++, Objective-C, C#, Python, HTML, CSS, JavaScript)
