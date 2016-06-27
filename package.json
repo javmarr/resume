@@ -1,0 +1,25 @@
+{
+  "name": "javmarr-resume",
+  "version": "1.0.0",
+  "description": "Resume for Javier Marroquin",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javmarr/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "Javier",
+    "Marroquin",
+    "javmarr"
+  ],
+  "author": "Javier Marroquin, <j_marroquin@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javmarr/resume/issues"
+  },
+  "homepage": "https://github.com/javmarr/resume#readme"
+}
